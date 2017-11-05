@@ -56,6 +56,7 @@ namespace HwT4
             } while (tryes != 0);
             if (tryes == 0)
             {
+                Console.Beep(10000, 5000);
                 while (true)
                 {
                     Console.BackgroundColor = ConsoleColor.Red;
@@ -92,7 +93,10 @@ namespace HwT4
             {
                 System.Threading.Thread.Sleep(20);
                 Console.MoveBufferArea(0, i, random.Next(0, Console.BufferWidth), 2, random.Next(6), random.Next(20));
+                
             }
+            Console.Beep(10000, 3000);
+            Environment.Exit(0);
         }
 
         /// <summary>
