@@ -1,0 +1,7 @@
+C:\Users\Denis\source\repos\GeekBrains\C sharp level 1\Lesson 2. Homework\HwT5\bin\Debug\HwT5.exe.config
+C:\Users\Denis\source\repos\GeekBrains\C sharp level 1\Lesson 2. Homework\HwT5\bin\Debug\HwT5.exe
+C:\Users\Denis\source\repos\GeekBrains\C sharp level 1\Lesson 2. Homework\HwT5\bin\Debug\HwT5.pdb
+C:\Users\Denis\source\repos\GeekBrains\C sharp level 1\Lesson 2. Homework\HwT5\obj\Debug\HwT5.csprojResolveAssemblyReference.cache
+C:\Users\Denis\source\repos\GeekBrains\C sharp level 1\Lesson 2. Homework\HwT5\obj\Debug\HwT5.csproj.CoreCompileInputs.cache
+C:\Users\Denis\source\repos\GeekBrains\C sharp level 1\Lesson 2. Homework\HwT5\obj\Debug\HwT5.exe
+C:\Users\Denis\source\repos\GeekBrains\C sharp level 1\Lesson 2. Homework\HwT5\obj\Debug\HwT5.pdb

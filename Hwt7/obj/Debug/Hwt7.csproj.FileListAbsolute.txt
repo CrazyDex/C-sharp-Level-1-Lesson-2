@@ -1,0 +1,6 @@
+C:\Users\Denis\source\repos\GeekBrains\C sharp level 1\Lesson 2. Homework\Hwt7\bin\Debug\HwT7.exe.config
+C:\Users\Denis\source\repos\GeekBrains\C sharp level 1\Lesson 2. Homework\Hwt7\bin\Debug\HwT7.exe
+C:\Users\Denis\source\repos\GeekBrains\C sharp level 1\Lesson 2. Homework\Hwt7\bin\Debug\HwT7.pdb
+C:\Users\Denis\source\repos\GeekBrains\C sharp level 1\Lesson 2. Homework\Hwt7\obj\Debug\Hwt7.csproj.CoreCompileInputs.cache
+C:\Users\Denis\source\repos\GeekBrains\C sharp level 1\Lesson 2. Homework\Hwt7\obj\Debug\HwT7.exe
+C:\Users\Denis\source\repos\GeekBrains\C sharp level 1\Lesson 2. Homework\Hwt7\obj\Debug\HwT7.pdb
